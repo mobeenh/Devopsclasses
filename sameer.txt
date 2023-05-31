@@ -1,3 +1,6 @@
 We come across data in every possible form, whether through social media sites, sensor networks, digital images or videos, cellphone GPS signals, purchase transaction records, web logs, medical records, archives, military surveillance, e-commerce, complex scientific research and so on…it amounts to around some Quintilian bytes of data! This data is what we call as…BIG DATA!
 
 It is nothing but an assortment of such huge and complex data that becomes very tedious to capture, store, process, retrieve and analyze it. Thanks to on-hand DBMS tools or traditional information processing techniques, things have become easier now. In fact, the concept of “BIG DATA” may vary from company to company depending upon its size, capacity, competence, human resource, techniques and so on. For some companies it may be a cumbersome job to manage a few gigabytes and for others it may be some terabytes creating a hassle in the entire organization. Learning and getting certified in Hadoop will make your resume stand out and help you in discovering better job opportunities.
+
+
+Hi This code is written by Mobeen
